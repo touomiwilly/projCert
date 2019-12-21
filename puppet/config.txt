@@ -1,5 +1,5 @@
 [main]
-certname = puppetagent
+certname = jslave
 server = puppet
 environment = jslave
 runinterval = 5m
