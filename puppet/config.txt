@@ -2,4 +2,4 @@
 certname = puppetagent
 server = puppet
 environment = production
-runinterval = 15m
+runinterval = 5m
